@@ -1,0 +1,26 @@
+{
+  "name": "weatherchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachelTaz/weatherChat.git"
+  },
+  "author": "RachelTaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachelTaz/weatherChat/issues"
+  },
+  "homepage": "https://github.com/RachelTaz/weatherChat#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "font-awesome": "^4.7.0",
+    "handlebars": "^4.0.11",
+    "jquery": "^3.3.1"
+  }
+}
